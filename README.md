@@ -7,4 +7,7 @@ docker, I can be happy and not sad.
 
 Things in here:
 
-* Nothing yet
+* Fish
+* Make
+* Vim
+* Ranger
